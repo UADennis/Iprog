@@ -1,0 +1,27 @@
+;tsrif egakcap
+;*.oi.avaj tropmi
+**/
+reyaM sinneD rohtua@ * 
+2202.01.71 ,1 noisrev@ * 
+/** 
+{ rorriMeliF ssalc cilbup
+
+{ noitpecxEOI sworht )sgra ][gnirtS(niam diov citats cilbup    
+;)"avaj.rorriMeliF/tsrif/crs"(eliF wen = 1f eliF        
+;)"txt.2tset/tsrif/crs"(eliF wen = 2f eliF        
+;)1f(redaeReliF wen = 1redaeRelif redaeReliF        
+;)1redaeRelif(redaeRdereffuB wen = 2redaer redaeRdereffuB        
+;))2f(maertStuptuOeliF wen(maertStnirP wen = retirw maertStnirP        
+;enil gnirtS        
+;)(eniLdaer.2redaer = enil        
+{)llun=! enil( elihw        
+;))enil(trevni(nltnirp.retirw            
+;)(eniLdaer.2redaer=enil            
+}        
+
+}    
+{ )x gnirtS(trevni gnirtS citats cilbup    
+: x ? 1 =< )(htgnel.x nruter        
+;)1 ,0(gnirtsbus.x + ))1(gnirtsbus.x(trevni                
+}    
+}
